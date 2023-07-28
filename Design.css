@@ -123,8 +123,11 @@ body {
     width: 5px;
     position:relative;
     left:-1px;
-    background: rgb(255, 0, 0);
-    margin: auto;
+    background: rgb(0, 0, 0);
+    margin-top: none;
+    margin-bottom: none;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -133,8 +136,8 @@ body {
     position: absolute;
     width: 200px;
     height: 5px;
-    background: rgb(235, 0, 0);
-    top: 25px;
+    background: rgb(0, 0, 0);
+    top: 50px; 
     left: -95px;
     margin: auto;
 
